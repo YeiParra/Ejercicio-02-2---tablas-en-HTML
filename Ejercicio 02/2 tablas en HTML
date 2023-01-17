@@ -1,0 +1,47 @@
+<html>
+<head> Ejercicio 02/2 - tablas en HTML </head>
+
+<body>
+    Ejercicio 02/2 - tablas en HTML
+<br>
+<br>
+    <table>
+        <tr>
+            <th> Titulo</th>
+            <th> Autor</th>
+            <th> Año de publicacion</th>
+            <th> enlace de amazon</th>
+         </tr>
+
+
+         <tr>
+        <td>el club de las 5 am</td>
+        <td>robin sharma</td>
+        <td> 2018</td>
+        <td> <a href="https://www.amazon.com/-/es/El-Club-5-manana-audiolibro/dp/B084TBZ4V8/ref=sr_1_1?keywords=el+club+de+las+5+de+la+ma%C3%B1ana+libro&qid=1673925978&sprefix=el+club+de+las+5%2Caps%2C183&sr=8-1"> El club de las 5:00AM</a> </td>
+         </tr>
+
+
+<tr>
+    <td>el hombre mas rico de babilonia</td>
+        <td>George Samuel Clason</td>
+        <td>1926</td>
+        <td><a href="https://www.amazon.com/-/es/El-Hombre-Mas-Rico-Babilonia-audiolibro/dp/B00609TCDQ/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2D900MKN5MTB0&keywords=el+hombre+mas+rico+de+babilonia&qid=1673927024&s=audible&sprefix=el+hombre+mas+rico+de+babilonia%2Caudible%2C230&sr=1-1"> el hombre mas ruico de babilonia</a></td>
+
+</tr>
+
+<tr>
+    <td>inevitable desastre</td>
+        <td>Jaime  McGuire</td>
+        <td>2011</td>
+        <td><a href="https://www.amazon.com/-/es/dp/B09MG89PRK/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=196Z0PJGBPEZO&keywords=inevitable+disaster&qid=1673927179&s=audible&sprefix=inevitable+desastr%2Caudible%2C215&sr=1-1"> Inevitable desastre</a></td>
+</tr>
+
+
+</table>
+
+
+</body>
+
+
+</html>
